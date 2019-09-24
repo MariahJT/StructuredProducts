@@ -1,1 +1,17 @@
 # StructuredProducts
+0.	Introduction
+
+0.1	Introduction to formula-based funds
+
+Formula-based fund, also known as formula fund or structured funds, is a collective investment vehicle that searches to achieve a primarily defined investment objective. The objective of investment prescribed by the formula is usually realized by the use of a combination of different financial instruments and derivatives. 
+Formula funds offer a performance defined in advance by applying a calculation formula indexed to the financial markets. The formula to determine funds’ performance uses complicated mathematical and probabilistic models, making the final gain possible to be quantified. Performance of formula funds usually derived from its reference portfolio, in particular the Euro Stoxx 50 and CAC 40 indexes in France. In practice, the reference portfolio is replicated by using OTC financial derivatives such as equity options and total return swaps. 
+These funds guarantee the investors that they will be able to recover, at the maturity of the fund, all or part from his initial investment. In general, formula funds aims to limit downside risk and guarantee the portfolio capital in a faltering scenario and to make the most use of potential gains of the reference portfolio in a bullish market.
+
+0.2	Formula-based funds of European market
+
+Based on the theory of portfolio insurance by Heyne Leland, formula funds were introduced to Europe in the 1990s.  Throughout this time of high market uncertainty and relatively low interest rate, Swiss banks have developed variant formula based products in an effort to attract more savings and to provide their clients with a substitutional product. 
+According to Commission des Opération de Bourse (COB), former French Financial Markets Regulator, formula fund first appeared in France in 1992 in the form of guaranteed UCITS. Nevertheless, it did not gain popularity until early 2000s. Then the value of Asset under management surged by from €33.898 billion in 2000 to €75.149 billion just before the 2008 financial crisis . It was promoted by major banks and insurance companies who intended to meet investors’ need of both security and a potential return linked to equity market exposure. After the financial crisis in 2008, the volume of French formula funds declined to €70.682 billion. In the 2017 annual report of AMF , formula funds experienced a steadily decline since 2009. At the end of 2017, it shrank to €24 billion. The AUM has more than halved. 
+ 
+Fig1. AMF Change in assets under collective management (€ billions) between 1999 and 2018. Before 2003, the category of formula funds didn’t exist. In this case, we consider the category of guaranteed funds and protected funds as formula funds. 
+It appears to the regulators that the loss is due to the actual levels of interest rates on account of the high relevance of formula fund performance to the level of interest rates. Indeed, the level of interest rates can directly determine the funding of formula funds. As follows, it influences the setup of formula which the fund can afford to pay. Furthermore, considering the correlation between the obligation market and the stock market, the performance of indexed portfolio can also be affected.
+The main purpose of this paper are to understand the mechanism of formula funds and to find out methods to survive in the current low interest rate environment.
